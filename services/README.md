@@ -1,0 +1,1 @@
+Servicio de ejemplo: copiar desde template-service y adaptarlo.
